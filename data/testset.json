@@ -1,0 +1,15 @@
+{
+	"image_format": "jpg",
+	"width": 240,
+	"height": 240,
+	"dump_dir": "output/test_images",
+	"image_dest": "output/TFtest.images",
+	"label_dest": "output/TFtest.labels",
+	"dirs": [{
+		"directory": "input/test/negative",
+		"label": 0
+	}, {
+		"directory": "input/test/positive",
+		"label": 1
+	}]
+}

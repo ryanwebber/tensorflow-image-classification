@@ -1,0 +1,15 @@
+{
+	"image_format": "jpg",
+	"width": 240,
+	"height": 240,
+	"dump_dir": "output/train_images",
+	"image_dest": "output/TFtrain.images",
+	"label_dest": "output/TFtrain.labels",
+	"dirs": [{
+		"directory": "input/train/negative",
+		"label": 0
+	}, {
+		"directory": "input/train/positive",
+		"label": 1
+	}]
+}

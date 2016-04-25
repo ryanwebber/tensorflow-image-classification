@@ -1,0 +1,7 @@
+
+**/*.pyc
+data/input/**/*.jpg
+data/input/**/*.png
+data/output/
+
+.DS_Store
